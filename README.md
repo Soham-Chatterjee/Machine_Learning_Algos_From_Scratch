@@ -2,7 +2,7 @@
 
 This repository consists of all the machine learning algorithms written from scratch using only pandas, numpy and matplotlib libraries
 
-## Univariate Linear Regression
+## Simple Linear Regression
 
 Linear regression is a basic statistical algorithm used to find relationships between two things, like how one changes when the other changes. Imagine you’re studying how the number of hours someone studies affects their exam scores. You collect data from several students, plot it on a graph, and notice that as study hours increase, exam scores also tend to go up. Linear regression helps you draw the best-fitting straight line through those points, called the "line of best fit." This line summarizes the relationship, making it easier to predict an exam score based on the number of hours studied.
 
